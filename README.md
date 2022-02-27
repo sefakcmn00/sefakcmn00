@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sefa</h1>
-<h3 align="center">I'm an image processing and data analyst with Python. https://cevirsozluk.com/</h3>
+<h3 align="center">I'm an image processing and data analyst with Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sefakcmn00&label=Profile%20views&color=0e75b6&style=flat" alt="sefakcmn00" /> </p>
 
