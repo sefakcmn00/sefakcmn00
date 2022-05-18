@@ -11,17 +11,19 @@
 
 - 🤝 I’m looking for help with **Final year projects Cybertruck and Aquarium**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sefa-kocaman-8297021a0/](https://www.linkedin.com/in/sefa-kocaman-8297021a0/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sefa-kocaman-8297021a0/](https://www.linkedin.com/in/sefa-kocaman/
+- )
 
 - 📝 I regularly write articles on [fortytwofficial.com](fortytwofficial.com)
 
 - 📫 How to reach me **sefakocaman98.sk@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sefa-kocaman-8297021a0/overlay/1635484189277/single-media-viewer/](https://www.linkedin.com/in/sefa-kocaman-8297021a0/overlay/1635484189277/single-media-viewer/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sefa-kocaman-8297021a0/overlay/1635484189277/single-media-viewer/](https://www.linkedin.com/in/sefa-kocaman/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sefa-kocaman-8297021a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sefa-kocaman-8297021a0/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sefa-kocaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sefa-kocaman/
+  " height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/sefakocaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sefakocaman" height="30" width="40" /></a>
 <a href="https://discord.gg/http://www.discord.gg/I am Groot's 00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="http://www.discord.gg/I am Groot's 00" height="30" width="40" /></a>
 </p>
