@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sefakocaman98.sk@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sefa-kocaman-8297021a0/overlay/1635484189277/single-media-viewer/](https://www.linkedin.com/in/sefa-kocaman/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sefa-kocaman/details/projects/](https://www.linkedin.com/in/sefa-kocaman/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
