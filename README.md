@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Final year projects Cybertruck and Aquarium**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sefa-kocaman-8297021a0/](https://www.linkedin.com/in/sefa-kocaman/
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sefa-kocaman/](https://www.linkedin.com/in/sefa-kocaman/
 - )
 
 - 📝 I regularly write articles on [fortytwofficial.com](fortytwofficial.com)
